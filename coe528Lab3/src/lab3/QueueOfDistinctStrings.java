@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Isaac Zheng 501263130
+ * @author Isaac Zheng
  */
 
 public class QueueOfDistinctStrings {
@@ -159,3 +159,4 @@ public class QueueOfDistinctStrings {
     }
     
 }
+
