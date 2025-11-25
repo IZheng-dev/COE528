@@ -9,7 +9,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author Isaac Zheng (501263130)
+ * @author Isaac Zheng
  */
 public class FlightTest {
     
@@ -240,3 +240,4 @@ public class FlightTest {
     }
     
 }
+
