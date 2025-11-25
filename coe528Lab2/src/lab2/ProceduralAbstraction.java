@@ -2,7 +2,7 @@ package lab2;
 
 /**
  *
- * @author Isaac Zheng (501263130)
+ * @author Isaac Zheng
  */
 
 public class ProceduralAbstraction {
@@ -112,3 +112,4 @@ public class ProceduralAbstraction {
 
 
 }
+
