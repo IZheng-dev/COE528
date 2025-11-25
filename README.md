@@ -1,2 +1,3 @@
 # COE528
-TMU Laboratory Assignments.
+TMU Laboratory Assignments.<br>
+Utilizes Java and JUnit to run and test each program.
