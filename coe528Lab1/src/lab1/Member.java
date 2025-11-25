@@ -2,7 +2,7 @@ package lab1;
 
 /**
  *
- * @author Isaac Zheng (501263130)
+ * @author Isaac Zheng
  */
 public class Member extends Passenger {
     
@@ -36,3 +36,4 @@ public class Member extends Passenger {
     }
     
 }
+
