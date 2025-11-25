@@ -2,7 +2,7 @@ package lab1;
 
 /**
  *
- * @author Isaac Zheng (501263130)
+ * @author Isaac Zheng
  */
 public class Ticket {
     
@@ -62,3 +62,4 @@ public class Ticket {
     }
     
 }
+
