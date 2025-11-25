@@ -4,7 +4,7 @@ import java.util.*;
 
 /**
  *
- * @author Isaac Zheng (501263130)
+ * @author Isaac Zheng
  */
 public class Manager {
     
@@ -148,3 +148,4 @@ public class Manager {
     }
     
 }
+
