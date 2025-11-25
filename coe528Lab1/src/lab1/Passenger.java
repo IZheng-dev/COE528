@@ -2,7 +2,7 @@ package lab1;
 
 /**
  *
- * @author Isaac Zheng (501263130)
+ * @author Isaac Zheng
  */
 public abstract class Passenger {
     
@@ -37,3 +37,4 @@ public abstract class Passenger {
     public abstract double applyDiscount(double p);
     
 }
+
